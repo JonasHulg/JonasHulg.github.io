@@ -1,5 +1,0 @@
----
-title: "Kend dit byråd"
----
-
-Denne side giver indblik i kommunalpolitikere opstillet ved Kommunalvalget i 2021. Oplysningerne er hentet fra DR.dk's kandidatpræsentationer og koblet med data på hvorvidt kandidaten blev valgt ind i byrådet eller ej. 
