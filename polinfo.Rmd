@@ -1,7 +1,0 @@
----
-title: "Baggrundsinfo"
----
-
-Udannelses- og beskæftigelsesinformationer om kommunalpolitikere opstillet ved KV2021
-
-<iframe src="https://he77yv-jonas-kristiansen.shinyapps.io/politiker_baggrund/" width="100%" height="800px" style="border: none;">
